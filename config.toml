@@ -29,7 +29,7 @@ DefaultContentLanguage = "en"
 
   [Languages.en.groupinfo]
   ## -- EA GROUP INFO -- ##
-  legalOrgName = "Effective Altruism <Glasgow>"
+  legalOrgName = "Effective Altruism Glasgow"
   orgLocations = "Glasgow"
   contactEmail = "effectivealtruismglasgow@gmail.com"
 
