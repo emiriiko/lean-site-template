@@ -74,10 +74,10 @@ DefaultContentLanguage = "en"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "Find us on Facebook"
-  firstButtonLink = "https://www.facebook.com/EAGlasgow/"
-  # secondButtonText = "Find us on Facebook"
-  # secondButtonLink = "https://www.facebook.com/EAGlasgow/"
+  firstButtonText = "Sign up for our newsletter"
+  firstButtonLink = "http://eepurl.com/cfUp0L"
+  secondButtonText = "Find us on Facebook"
+  secondButtonLink = "https://www.facebook.com/EAGlasgow/"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
