@@ -75,7 +75,7 @@ DefaultContentLanguage = "en"
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
   firstButtonText = "Sign up for our newsletter"
-  firstButtonLink = "http://eepurl.com/cfUp0L"
+  firstButtonLink = "https://eepurl.com/cfUp0L"
   secondButtonText = "Find us on Facebook"
   secondButtonLink = "https://www.facebook.com/EAGlasgow/"
   # Remove the # before the text to add the optional Meetup button
